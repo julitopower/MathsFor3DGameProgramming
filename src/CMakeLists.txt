@@ -1,5 +1,6 @@
 set(SRC 
-  vector3d.cpp
+  vector.cpp
+  matrix.cpp
 )
 
 add_library(vector3d ${SRC})

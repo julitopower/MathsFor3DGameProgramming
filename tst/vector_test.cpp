@@ -1,4 +1,4 @@
-#include <vector3d.hpp>
+#include <vector.hpp>
 #include <iostream>
 
 #define ASSERT(lhs, rhs, msg)						\
